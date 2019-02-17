@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "161334657275",
+    "firebase_url": "https://question-bank-cdf34.firebaseio.com",
+    "project_id": "question-bank-cdf34",
+    "storage_bucket": "question-bank-cdf34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161334657275:android:ce46303e4ddf5a74",
+        "android_client_info": {
+          "package_name": "com.example.questionbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161334657275-a3dkm3f0533n1386q0buuijrv6i9ecis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAdSgKo5P-VBClbERnzIL45oNgdBe2yq4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
